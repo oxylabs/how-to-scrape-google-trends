@@ -142,3 +142,6 @@ You’ve now created a folder structure to hold all of your separate CSV files g
 
 ![](images/trends_data_csv.png)
 
+## 4. Create a result comparison
+
+
