@@ -138,5 +138,7 @@ keyword = trend_data["interest_over_time"][0]["keyword"]
    rt_df.to_csv(f"{keyword_path}/related_topics.csv", index=False)
    rq_df.to_csv(f"{keyword_path}/related_queries.csv", index=False)
 ```
+You’ve now created a folder structure to hold all of your separate CSV files grouped by keyword:
 
+![](images/trends_data_csv.png)
 
