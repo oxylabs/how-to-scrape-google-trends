@@ -1,5 +1,15 @@
 # How to Scrape Google Trends Data With Python
 
+[![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
+
+[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
+
+- [Why scrape Google Trends data?](#why-scrape-google-trends-data)
+- [1. Install libraries](#1-install-libraries)
+- [2. Send a request](#2-send-a-request)
+- [3. Save results to CSV](#3-save-results-to-csv)
+- [4. Create a result comparison](#4-create-a-result-comparison)
+
 This article provides step-by-step instructions on how to get Google Trends data with Python and [SERP Scraper API](https://oxylabs.io/products/scraper-api/serp), which requires a **paid subscription** or a **free trial**.
 
 
