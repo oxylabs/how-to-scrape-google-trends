@@ -10,7 +10,7 @@
 - [3. Save results to CSV](#3-save-results-to-csv)
 - [4. Create a result comparison](#4-create-a-result-comparison)
 
-This article provides step-by-step instructions on how to get Google Trends data with Python and [SERP Scraper API](https://oxylabs.io/products/scraper-api/serp), which requires a **paid subscription** or a **free trial**.
+This article provides step-by-step instructions on how to get Google Trends data with Python and [SERP Scraper API](https://developers.oxylabs.io/scraper-apis/web-scraper-api) (a part of Web Scraper API), which requires a **paid subscription** or a **free trial**.
 
 
 
@@ -79,7 +79,7 @@ content = data["results"][0]["content"]
 pprint(content)
 ```
 
-For more information about possible parameters, check our [documentation](https://developers.oxylabs.io/scraper-apis/serp-scraper-api/google/trends-explore).
+For more information about possible parameters, check our [documentation](https://developers.oxylabs.io/scraper-apis/web-scraper-api/google/trends-explore).
 
 If everything’s in order, when you run the code, you should see the raw results of the query in the terminal window like this:
 ![](images/trends_data.png)
